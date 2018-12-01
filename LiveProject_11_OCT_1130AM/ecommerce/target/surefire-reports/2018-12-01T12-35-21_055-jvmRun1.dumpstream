@@ -1,0 +1,73 @@
+# Created at 2018-12-01T12:35:26.277
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created at 2018-12-01T12:35:34.504
+Unexpected IOException with stream: log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+
+
+# Created at 2018-12-01T12:35:34.506
+Unexpected IOException with stream: log4j:WARN Please initialize the log4j system properly.
+
+
+# Created at 2018-12-01T12:35:34.507
+Unexpected IOException with stream: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+
+# Created at 2018-12-01T12:35:37.693
+Unexpected IOException with stream: log4j:WARN No such property [maxBackupIndex] in org.apache.log4j.FileAppender.
+
+
+# Created at 2018-12-01T12:35:37.697
+Unexpected IOException with stream: log4j:WARN No such property [maxFileSize] in org.apache.log4j.FileAppender.
+
+
+# Created at 2018-12-01T12:35:37.716
+Unexpected IOException with stream: log4j:WARN No such property [stdout] in org.apache.log4j.ConsoleAppender.
+
+
+# Created at 2018-12-01T12:35:37.747
+Unexpected IOException: 5,1,com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration,hmsPR(com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration),com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration,null,null
+
+
+# Created at 2018-12-01T12:35:37.755
+Unexpected IOException with stream: 2018-12-01 12:35:37 INFO  TC001_CustomerRegistration:17 - *******Starting TC001_CustomerRegistration***********
+
+
+# Created at 2018-12-01T12:35:38.643
+Unexpected IOException with stream: 2018-12-01 12:35:38 INFO  PRegistration:37 - Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+
+
+# Created at 2018-12-01T12:35:39.402
+Unexpected IOException with stream: 2018-12-01 12:35:39 INFO  PRegistration:39 - Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> name: username]
+
+
+# Created at 2018-12-01T12:35:39.559
+Unexpected IOException with stream: 2018-12-01 12:35:39 INFO  PRegistration:41 - Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> name: password]
+
+
+# Created at 2018-12-01T12:35:40.706
+Unexpected IOException with stream: 2018-12-01 12:35:40 INFO  PRegistration:43 - Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+
+
+# Created at 2018-12-01T12:35:40.780
+Unexpected IOException with stream: 2018-12-01 12:35:40 INFO  PRegistration:45 - Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> link text: Logout]
+
+
+# Created at 2018-12-01T12:35:45.423
+Unexpected IOException with stream: 2018-12-01 12:35:45 INFO  TC001_CustomerRegistration:22 - *******End of TC001_CustomerRegistration***********
+
+
+# Created at 2018-12-01T12:35:45.426
+Unexpected IOException: 6,1,com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration,hmsPR(com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration),null,null,null
+
+
+# Created at 2018-12-01T12:35:47.967
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

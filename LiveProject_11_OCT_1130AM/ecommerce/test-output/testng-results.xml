@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Running: hmsPR]]>
+    </line>
+    <line>
+      <![CDATA[Test Success: hmsPR]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsPR 28_11_2018_12_56_43.png'><img src='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsPR 28_11_2018_12_56_43.png'height='100'width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Test Running: hmsLogin]]>
+    </line>
+    <line>
+      <![CDATA[Test Success: hmsLogin]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsLogin 28_11_2018_12_56_59.png'><img src='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsLogin 28_11_2018_12_56_59.png'height='100'width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38914" started-at="2018-11-28T07:26:23Z" finished-at="2018-11-28T07:27:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38914" started-at="2018-11-28T07:26:23Z" finished-at="2018-11-28T07:27:02Z">
+      <class name="com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="beforeTest" is-config="true" duration-ms="13141" started-at="2018-11-28T07:26:23Z" finished-at="2018-11-28T07:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="startReport" is-config="true" duration-ms="9" started-at="2018-11-28T07:26:36Z" finished-at="2018-11-28T07:26:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration.hmsPR() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="hmsPR()[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="hmsPR" duration-ms="7434" started-at="2018-11-28T07:26:36Z" finished-at="2018-11-28T07:26:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Running: hmsPR]]>
+            </line>
+            <line>
+              <![CDATA[Test Success: hmsPR]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsPR 28_11_2018_12_56_43.png'><img src='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsPR 28_11_2018_12_56_43.png'height='100'width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hmsPR -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="endReport" is-config="true" duration-ms="1" started-at="2018-11-28T07:26:44Z" finished-at="2018-11-28T07:26:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=hmsPR status=SUCCESS method=TC001_CustomerRegistration.hmsPR()[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94] output=Test Running: hmsPR]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="startReport(java.lang.reflect.Method)[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="startReport" is-config="true" duration-ms="1" started-at="2018-11-28T07:26:44Z" finished-at="2018-11-28T07:26:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration.hmsLogin() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="hmsLogin()[pri:1, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="hmsLogin" duration-ms="15644" started-at="2018-11-28T07:26:44Z" finished-at="2018-11-28T07:26:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Running: hmsLogin]]>
+            </line>
+            <line>
+              <![CDATA[Test Success: hmsLogin]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsLogin 28_11_2018_12_56_59.png'><img src='D:\LiveProject_11_OCT_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\hmsLogin 28_11_2018_12_56_59.png'height='100'width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hmsLogin -->
+        <test-method status="PASS" signature="endReport(org.testng.ITestResult)[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="endReport" is-config="true" duration-ms="1" started-at="2018-11-28T07:27:00Z" finished-at="2018-11-28T07:27:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=hmsLogin status=SUCCESS method=TC001_CustomerRegistration.hmsLogin()[pri:1, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94] output=Test Running: hmsLogin]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration@5b0abc94]" name="endTest" is-config="true" duration-ms="1603" started-at="2018-11-28T07:27:00Z" finished-at="2018-11-28T07:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.durgasoft.ecommerce.homapage.TC001_CustomerRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

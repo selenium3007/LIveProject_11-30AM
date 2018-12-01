@@ -1,0 +1,48 @@
+package com.durgasoft.ecommerce.listeners;
+
+import org.testng.ITestContext;
+import org.testng.ITestListener;
+import org.testng.ITestResult;
+import org.testng.Reporter;
+
+public class Listeners implements ITestListener {
+
+	public void onFinish(ITestContext arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onStart(ITestContext arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onTestFailedButWithinSuccessPercentage(ITestResult arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onTestFailure(ITestResult arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void onTestSkipped(ITestResult arg0) {
+		// TODO Auto-generated method stub
+		Reporter.log("Test Skipped"+arg0.getMethod().getMethodName());
+	}
+
+	public void onTestStart(ITestResult arg0) {
+		// TODO Auto-generated method stub
+		Reporter.log("Test Running"+arg0.getMethod().getMethodName());
+		
+	}
+
+	public void onTestSuccess(ITestResult arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+
+}

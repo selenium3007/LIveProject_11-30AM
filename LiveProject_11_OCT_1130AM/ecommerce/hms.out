@@ -1,0 +1,148 @@
+*******Starting TC001_CustomerRegistration***********
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is: using object[[FirefoxDriver: firefox on WINDOWS (a8e20afc-c7dc-4940-859b-5e15737c3544)] -> name: username]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (09350d76-5a34-4db9-a160-3bfde486726c)] -> name: username]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (0d7f386a-1ca7-44b6-a244-1270bf14d0fd)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (0d7f386a-1ca7-44b6-a244-1270bf14d0fd)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (0d7f386a-1ca7-44b6-a244-1270bf14d0fd)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (c0dedc40-8213-4078-a46f-27975e316a36)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (c0dedc40-8213-4078-a46f-27975e316a36)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (c0dedc40-8213-4078-a46f-27975e316a36)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (b6af3484-c00d-4dc1-bf32-17ce11ab5593)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (b6af3484-c00d-4dc1-bf32-17ce11ab5593)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (b6af3484-c00d-4dc1-bf32-17ce11ab5593)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (02740e24-0028-44a1-9b71-3ff901d52f2f)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (02740e24-0028-44a1-9b71-3ff901d52f2f)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (02740e24-0028-44a1-9b71-3ff901d52f2f)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (7b81cee4-0978-49d0-932e-34cc38030c38)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (7b81cee4-0978-49d0-932e-34cc38030c38)] -> name: password]
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (18c19b37-fa9a-42c4-b788-fcdfbabc978d)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (18c19b37-fa9a-42c4-b788-fcdfbabc978d)] -> name: password]
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (5946cb51-0b9d-453e-9063-38e432ac7d05)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (5946cb51-0b9d-453e-9063-38e432ac7d05)] -> name: password]
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (0f075975-5782-47cd-bac4-f43ce32b66e9)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (0f075975-5782-47cd-bac4-f43ce32b66e9)] -> name: password]
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (6c923aaf-e6b5-4897-8b92-b4ac10a5915c)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (6c923aaf-e6b5-4897-8b92-b4ac10a5915c)] -> name: password]
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (064551f7-5572-49a0-8cc6-be8c15e963cc)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (064551f7-5572-49a0-8cc6-be8c15e963cc)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (064551f7-5572-49a0-8cc6-be8c15e963cc)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (8341ad96-bfa5-4eea-aa4e-7ac944b57414)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (8341ad96-bfa5-4eea-aa4e-7ac944b57414)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (8341ad96-bfa5-4eea-aa4e-7ac944b57414)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (11849124-4250-4ad6-b2a9-714c7a3f8414)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (11849124-4250-4ad6-b2a9-714c7a3f8414)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (11849124-4250-4ad6-b2a9-714c7a3f8414)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (5671251c-4bc6-4228-9eb4-3684b42f89b0)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (5671251c-4bc6-4228-9eb4-3684b42f89b0)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (5671251c-4bc6-4228-9eb4-3684b42f89b0)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (bea6cba6-f960-4a8b-909f-c64cfbd3eb4d)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (bea6cba6-f960-4a8b-909f-c64cfbd3eb4d)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (bea6cba6-f960-4a8b-909f-c64cfbd3eb4d)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (9e328ead-a1ca-433b-847a-81888c76dd1f)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (9e328ead-a1ca-433b-847a-81888c76dd1f)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (9e328ead-a1ca-433b-847a-81888c76dd1f)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (b433bda5-4d4e-43ab-827f-35cfde8937c5)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (b433bda5-4d4e-43ab-827f-35cfde8937c5)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (b433bda5-4d4e-43ab-827f-35cfde8937c5)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (9c7f7ac3-5c93-4bf5-94c6-7a2cd882f162)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (9c7f7ac3-5c93-4bf5-94c6-7a2cd882f162)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (9c7f7ac3-5c93-4bf5-94c6-7a2cd882f162)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (57405a93-5332-4704-acea-01c27c3363e5)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (57405a93-5332-4704-acea-01c27c3363e5)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (57405a93-5332-4704-acea-01c27c3363e5)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (4f8b05f8-f188-4c9d-8aed-9b5b10cc29ca)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
+*******Starting TC001_CustomerRegistration***********
+Clicked on HMS link with the object:Proxy element for: DefaultElementLocator 'By.linkText: HMS'
+Entered User Name is:admin using object[[FirefoxDriver: firefox on WINDOWS (dfcc4019-b7fc-4f60-af91-5634f74bdcce)] -> name: username]
+Entered Password is:admin using object[[FirefoxDriver: firefox on WINDOWS (dfcc4019-b7fc-4f60-af91-5634f74bdcce)] -> name: password]
+Clicked on submit button with the object:Proxy element for: DefaultElementLocator 'By.name: submit'
+Verify customer registration page by using object:[[FirefoxDriver: firefox on WINDOWS (dfcc4019-b7fc-4f60-af91-5634f74bdcce)] -> link text: Logout]
+*******End of TC001_CustomerRegistration***********
